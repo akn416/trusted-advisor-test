@@ -30,7 +30,8 @@ docs/*  docs@example.com
 
 # In this example, @octocat owns any file in an apps directory
 # anywhere in your repository.
-apps/ @octocat
+/ @dsillex
+
 
 # In this example, @doctocat owns any file in the `/docs`
 # directory in the root of your repository.
